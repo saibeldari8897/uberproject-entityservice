@@ -27,7 +27,7 @@ publishing {
 
     repositories {
         maven {
-            url = uri('/Users/sanketsingh/Developer/UberSpringProject/UberProject-EntityService')
+            url = uri('/Users/laksh/OneDrive/Desktop/SpringBoot/uberproject-entityservice')
         }
     }
 }
